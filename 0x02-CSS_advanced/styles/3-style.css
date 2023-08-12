@@ -13,11 +13,11 @@ html {
 }
 
 body {
-  color: var(--text-color);
+  background-color: var(--text-color);
 }
 
 a {
-  color: var(--text-color);
+  background-color: var(--text-color);
 }
 
 .visually-hidden {
@@ -25,9 +25,9 @@ a {
 }
 
 .card-category {
-  color: var(--color-primary);
+  background-color: var(--color-primary);
 }
 
 .section-tangle {
-  color: #d73953;
+  background-color: #d73953;
 }
