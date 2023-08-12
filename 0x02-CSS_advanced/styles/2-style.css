@@ -4,21 +4,21 @@ html {
 }
 
 body {
-  background-color: #161616;
+  color: #161616;
 }
 
 a {
-  background-color: #161616;
+  color: #161616;
 }
 
 .visually-hidden {
-  background-color: none;
+  color: none;
 }
 
 .card-category {
-  background-color: #d73953;
+  color: #d73953;
 }
 
 .section-tangle {
-  background-color: #d73953;
+  color: #d73953;
 }
