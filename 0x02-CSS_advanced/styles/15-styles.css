@@ -149,10 +149,13 @@ template {
 }
 /*# sourceMappingURL=normalize.min.css.map */
 
+html {
+  box-sizing: border-box;
+}
 *,
 *:before,
 *:after {
-  box-sizing: border-box;
+  box-sizing: inherit;
 }
 
 :root {
