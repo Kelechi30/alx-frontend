@@ -149,7 +149,7 @@ template {
 }
 /*# sourceMappingURL=normalize.min.css.map */
 
-.box {
+* {
   box-sizing: border-box;
 }
 
